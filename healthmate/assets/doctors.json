@@ -1,0 +1,203 @@
+[
+  {
+    "name": "Dr. Ramesh Desai",
+    "location": "Nadiad",
+    "address": {
+      "longitude": 72.8655,
+      "latitude": 22.6931
+    },
+    "phone_number": "+91 9988776655",
+    "specialty": "Cardiologist"
+  },
+  {
+    "name": "Dr. Nidhi Patel",
+    "location": "Ahmedabad",
+    "address": {
+      "longitude": 72.5714,
+      "latitude": 23.0225
+    },
+    "phone_number": "+91 9876543120",
+    "specialty": "Dermatologist"
+  },
+  {
+    "name": "Dr. Ravi Kumar",
+    "location": "Ahmedabad",
+    "address": {
+      "longitude": 72.5797,
+      "latitude": 23.0295
+    },
+    "phone_number": "+91 9345678910",
+    "specialty": "Cardiologist"
+  },
+  {
+    "name": "Dr. Jash Shah",
+    "location": "Ahmedabad",
+    "address": {
+      "longitude": 72.5649,
+      "latitude": 23.0266
+    },
+    "phone_number": "+91 9012345678",
+    "specialty": "General Practitioner"
+  },
+  {
+    "name": "Dr. Anjali Kapoor",
+    "location": "Ahmedabad",
+    "address": {
+      "longitude": 72.5678,
+      "latitude": 23.0357
+    },
+    "phone_number": "+91 9922345678",
+    "specialty": "ENT Specialist"
+  },
+  {
+    "name": "Dr. Hemant Trivedi",
+    "location": "Ahmedabad",
+    "address": {
+      "longitude": 72.5735,
+      "latitude": 23.0399
+    },
+    "phone_number": "+91 9821345678",
+    "specialty": "Neurologist"
+  },
+  {
+    "name": "Dr. Priya Mehta",
+    "location": "Surat",
+    "address": {
+      "longitude": 72.8311,
+      "latitude": 21.1702
+    },
+    "phone_number": "+91 9801234567",
+    "specialty": "Pediatrician"
+  },
+  {
+    "name": "Dr. Karan Malhotra",
+    "location": "Vadodara",
+    "address": {
+      "longitude": 73.1812,
+      "latitude": 22.3072
+    },
+    "phone_number": "+91 9123456780",
+    "specialty": "Orthopedic Surgeon"
+  },
+  {
+    "name": "Dr. Pooja Shah",
+    "location": "Rajkot",
+    "address": {
+      "longitude": 70.8022,
+      "latitude": 22.3039
+    },
+    "phone_number": "+91 9876543211",
+    "specialty": "Gynecologist"
+  },
+  {
+    "name": "Dr. Vikram Chawla",
+    "location": "Anand",
+    "address": {
+      "longitude": 72.9284,
+      "latitude": 22.5645
+    },
+    "phone_number": "+91 9900123456",
+    "specialty": "Urologist"
+  },
+  {
+    "name": "Dr. Sanya Tiwari",
+    "location": "Ahmedabad",
+    "address": {
+      "longitude": 72.5867,
+      "latitude": 23.0412
+    },
+    "phone_number": "+91 9812345678",
+    "specialty": "Psychiatrist"
+  },
+  {
+    "name": "Dr. Mohan Joshi",
+    "location": "Gandhinagar",
+    "address": {
+      "longitude": 72.6369,
+      "latitude": 23.2156
+    },
+    "phone_number": "+91 9001234567",
+    "specialty": "General Surgeon"
+  },
+  {
+    "name": "Dr. Shruti Bansal",
+    "location": "Surat",
+    "address": {
+      "longitude": 72.8497,
+      "latitude": 21.1924
+    },
+    "phone_number": "+91 9701234567",
+    "specialty": "Oncologist"
+  },
+  {
+    "name": "Dr. Rajesh Meena",
+    "location": "Vadodara",
+    "address": {
+      "longitude": 73.2147,
+      "latitude": 22.3109
+    },
+    "phone_number": "+91 9812345670",
+    "specialty": "Neurosurgeon"
+  },
+  {
+    "name": "Dr. Neha Shah",
+    "location": "Nadiad",
+    "address": {
+      "longitude": 72.8583,
+      "latitude": 22.6886
+    },
+    "phone_number": "+91 9823456710",
+    "specialty": "Endocrinologist"
+  },
+  {
+    "name": "Dr. Anupam Sharma",
+    "location": "Bhavnagar",
+    "address": {
+      "longitude": 72.1433,
+      "latitude": 21.7645
+    },
+    "phone_number": "+91 9976543210",
+    "specialty": "Pulmonologist"
+  },
+  {
+    "name": "Dr. Megha Vora",
+    "location": "Ahmedabad",
+    "address": {
+      "longitude": 72.5728,
+      "latitude": 23.0389
+    },
+    "phone_number": "+91 9098765432",
+    "specialty": "Rheumatologist"
+  },
+  {
+    "name": "Dr. Kunal Deshmukh",
+    "location": "Gandhinagar",
+    "address": {
+      "longitude": 72.6289,
+      "latitude": 23.2181
+    },
+    "phone_number": "+91 9812312345",
+    "specialty": "Ophthalmologist"
+  },
+  {
+    "name": "Dr. Reema Soni",
+    "location": "Rajkot",
+    "address": {
+      "longitude": 70.7876,
+      "latitude": 22.2873
+    },
+    "phone_number": "+91 9901234561",
+    "specialty": "Dentist"
+  },
+  {
+    "name": "Dr. Deepak Chandra",
+    "location": "Surat",
+    "address": {
+      "longitude": 72.8578,
+      "latitude": 21.1968
+    },
+    "phone_number": "+91 9821345670",
+    "specialty": "Gastroenterologist"
+  }
+
+]
